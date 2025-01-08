@@ -1,0 +1,7 @@
+D:\Dac\MyGitData\DotNet\Assignment\Assignment1_calculator_loop_switchcase\bin\Debug\Assignment1.exe.config
+D:\Dac\MyGitData\DotNet\Assignment\Assignment1_calculator_loop_switchcase\bin\Debug\Assignment1.exe
+D:\Dac\MyGitData\DotNet\Assignment\Assignment1_calculator_loop_switchcase\bin\Debug\Assignment1.pdb
+D:\Dac\MyGitData\DotNet\Assignment\Assignment1_calculator_loop_switchcase\obj\Debug\Assignment1_calculater_loop_swichcase.csproj.AssemblyReference.cache
+D:\Dac\MyGitData\DotNet\Assignment\Assignment1_calculator_loop_switchcase\obj\Debug\Assignment1_calculater_loop_swichcase.csproj.CoreCompileInputs.cache
+D:\Dac\MyGitData\DotNet\Assignment\Assignment1_calculator_loop_switchcase\obj\Debug\Assignment1.exe
+D:\Dac\MyGitData\DotNet\Assignment\Assignment1_calculator_loop_switchcase\obj\Debug\Assignment1.pdb

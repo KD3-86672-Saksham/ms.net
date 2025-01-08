@@ -1,0 +1,7 @@
+D:\Dac\MyGitData\DotNet\HelloCsharp\Assignment1\bin\Debug\Assignment1.exe.config
+D:\Dac\MyGitData\DotNet\HelloCsharp\Assignment1\bin\Debug\Assignment1.exe
+D:\Dac\MyGitData\DotNet\HelloCsharp\Assignment1\bin\Debug\Assignment1.pdb
+D:\Dac\MyGitData\DotNet\HelloCsharp\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\Dac\MyGitData\DotNet\HelloCsharp\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\Dac\MyGitData\DotNet\HelloCsharp\Assignment1\obj\Debug\Assignment1.exe
+D:\Dac\MyGitData\DotNet\HelloCsharp\Assignment1\obj\Debug\Assignment1.pdb
